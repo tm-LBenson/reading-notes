@@ -4,7 +4,7 @@
 
 **Table of Contents:**
 
-## Daily Reading Assignment 1
+## [Daily Reading Assignment 1](https://github.com/tm-LBenson/reading-notes/blob/main/read-01)
 
 ## Daily Reading Assignment 2
 
