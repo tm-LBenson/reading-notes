@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-* * >This will serve as a table of contents for the reading assignments I will be taking. 
+>This will serve as a table of contents for the reading assignments I will be taking. 
 
 ** Table of Contents: 
 
@@ -33,3 +33,5 @@
 ## Daily Reading Assignment 14
 
 ## Daily Reading Assignment 15
+
+* * This document was last updated on 9/9/2022
