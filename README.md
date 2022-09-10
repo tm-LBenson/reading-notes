@@ -1,5 +1,9 @@
 # Code 201 Reading Notes
 
+* * >This will serve as a table of contents for the reading assignments I will be taking. 
+
+** Table of Contents: 
+
 ## Daily Reading Assignment 1
 
 ## Daily Reading Assignment 2
