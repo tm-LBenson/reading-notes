@@ -1,3 +1,5 @@
+# Code 102 Reading Notes
+*This is where the notes for the 102 course would be*
 # Code 201 Reading Notes
 
 >This will serve as a table of contents for the reading assignments I will be taking. 
