@@ -2,7 +2,7 @@
 
 >This will serve as a table of contents for the reading assignments I will be taking. 
 
-** Table of Contents: 
+** Table of Contents: **
 
 ## Daily Reading Assignment 1
 
@@ -34,4 +34,4 @@
 
 ## Daily Reading Assignment 15
 
-* * This document was last updated on 9/9/2022
+* * This document was last updated on 9/9/2022 * *
