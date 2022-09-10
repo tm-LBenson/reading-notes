@@ -34,4 +34,4 @@
 
 ## Daily Reading Assignment 15
 
-*This document was last updated on 9/9/2022*
+*This document was last updated on 9/10/2022*
