@@ -6,7 +6,7 @@ Compose a short poem describing how HTTP sends data between computers.
 >data was sent from a client, the browser is very relient. it sent back a reply, I could cry. because 404 is not found
 
 Describe how HTML, CSS, and JS files are “parsed” in the browser.
->When the browser recieves HTML it will first parse the HTML loading the main content of a webpage. The browser will then check the HTML for a "link element" to parse the CSS. At the buttom of the HTML is the <script> tag which is where the link to the JavaScript is, so it will be parsed last allowing the pae to load before running any scripts.
+>When the browser recieves HTML it will first parse the HTML loading the main content of a webpage. The browser will then check the HTML for a "link element" to parse the CSS. At the buttom of the HTML is the <script> tag which is where the link to the JavaScript is, so it will be parsed last allowing the page to load before running any scripts.
 
 How can you find images to add to a Website?
   >you can use Google's license filter to see images that are permitted to be used on your own website. You can purchase a license to use photos, or search for royalty free images on sites such as unsplash.
