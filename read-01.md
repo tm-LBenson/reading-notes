@@ -15,7 +15,7 @@ How do you create a String vs a Number in JavaScript?
   >You must declare the data inside quotes to assign a variable with the String data type; if the data is declared outside of the quotes, it will be declared as a      number data type, as long as the value is equal to a valid number.
 
 What is a Variable and why are they important in JavaScript?
-  >Variables are containers that store values. The containers can be words or letters that represent the data that they store. You can name variables almost anything, except a few exceptions.
+  >Variables are containers that store values. The containers can be words or letters that represent the data that they store. You can name variables almost anything, except a few exceptions. They are important to JavaScript because they can store primitive data types, functions or expressions. They help keep the code "dry" so you do not need to repeat code throughout a script. 
 
 What is an HTML attribute?
 Describe the Anatomy of an HTMl element.
