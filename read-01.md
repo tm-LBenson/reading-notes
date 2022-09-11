@@ -33,22 +33,22 @@ How is the ```<meta>``` HTML tag used when specifying metadata?
   >the ```<meta>``` is defined inside the content of the ```<head>``` of the document, and attributes are added inside the ```<meta>``` such as ```<meta name="author">```
   
 What is the first step to designing a Website?
-  
+  >define what you want to accomplish with it.
   
 What is the most important question to answer when designing a Website?
-  
+  >What exactly do I want to accomplish?
   
   
 Why should you use an ```<h1>``` element over a ```<span>``` element to display a top level heading?
   >Semantically a ```<span>``` is usually nested inside the content of another element. For example, The ```<h1>``` is semantically used once at the top of a page to display a large heading. 
   
 What are the benefits of using semantic tags in our HTML?
-  
+  >Using the correct semantic tags will assist with Search Engine Optimization and screen readers to operate correctly.
 
 Describe 2 things that require JavaScript in the Browser?
-  Submitting forms, pressing buttons and expecting an action to occur
+  >Submitting forms, pressing buttons and expecting an action to occur
   
 How can you add JavaScript to an HTML document?
-  a ```<script>``` tag can be added to the bottom of the document, and a link to the JS file can be added as an attribute
+  >a ```<script>``` tag can be added to the bottom of the document, and a link to the JS file can be added as an attribute
   
 ## Things I want to know more about
