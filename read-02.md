@@ -66,7 +66,7 @@ What data type is a sequence of text enclosed in single quote marks?
 List 4 types of JavaScript operators.  
   ```&&``` and  
   ```||``` or  
-  ```??``` nullish coalescing
+  ```??``` nullish coalescing  
   ```++``` incrementing  
   
   
