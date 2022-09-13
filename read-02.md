@@ -57,8 +57,47 @@ Review the block of code below and answer the following questions:
   Which components are considered properties?  
   >the first half of the declaraction is the property; color and padding are both properties. 
   
+    ## Learn JS
   
+What data type is a sequence of text enclosed in single quote marks?
+  >String is the data type inside quotes
+  
+List 4 types of JavaScript operators.  
+  ```&&``` and  
+  ```||``` or  
+  ```??``` nullish coalescing
+  ```++``` incrementing  
+  
+  
+Describe a real-world Problem you could solve with a Function.  
+>I am bad with anniversaries. I could write a function to take in a date as a parameter, and it would return how many years anniversary I am currently on 
+  
+  
+## Making Decisions In Your Code – Conditionals.
 
-
-
+  An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+  >condition(boolean)  
+  >true
+  
+What is the use of an ```else if```?
+  >the ```else if``` is used to check for a boolean; after the first ```if``` was found false, the condition has more than one possible result. See example below  
+  ```
+  if (condition === true){
+  return `first condition was true`
+  }
+  else if (newCondition === true){
+  return `second condition was true`
+  }
+  else{
+  return `no conditions were true`
+  }
+  ```  
+  
+List 3 different types of comparison operators.
+  ```< > = != <= >= ``` 
+What is the difference between the logical operator ```&&``` and ```||```?
+  for ```&&``` all conditions must be ```true``` or it will return ```false```
+  for ```||``` 1 or more conditions needs to be ```true``` for it to return ```true```
+  
 ## Things I want to know more about
+
