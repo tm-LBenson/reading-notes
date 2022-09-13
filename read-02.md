@@ -1,5 +1,6 @@
 Understanding semantics is essential when working for anyone or with anyone.
 It will keep everyone on the same page. Furthermore, proper semantics can lead to better SEO, which developers and companies need to be successful. 
+JavaScript is what gives a website its life. Starting with the fundamentals can give me a foundation to grow on. 
 ## Introduction to HTML
 ## HTML Text Fundamentals. HTML Advanced Text Formatting.
 
