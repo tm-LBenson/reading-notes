@@ -93,11 +93,11 @@ What is the use of an ```else if```?
   }
   ```  
   
-List 3 different types of comparison operators.
-  ```<=``` less than or equal to
-  ```>=``` greater than or equal to
-  ```!=``` not equal to
-  ```==``` equal to
+List 3 different types of comparison operators.  
+  ```<=``` less than or equal to  
+  ```>=``` greater than or equal to  
+  ```!=``` not equal to  
+  ```==``` equal to  
   
 What is the difference between the logical operator ```&&``` and ```||```?  
   
