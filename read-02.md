@@ -94,10 +94,17 @@ What is the use of an ```else if```?
   ```  
   
 List 3 different types of comparison operators.
-  ```< > = != <= >= ``` 
-What is the difference between the logical operator ```&&``` and ```||```?
-  for ```&&``` all conditions must be ```true``` or it will return ```false```
-  for ```||``` 1 or more conditions needs to be ```true``` for it to return ```true```
+  ```<=``` less than or equal to
+  ```>=``` greater than or equal to
+  ```!=``` not equal to
+  ```==``` equal to
+  
+What is the difference between the logical operator ```&&``` and ```||```?  
+  
+  for ```&&``` all conditions must be ```true``` or it will return ```false```  
+  
+  for ```||``` 1 or more conditions needs to be ```true``` for it to return ```true```  
+  
   
 ## Things I want to know more about
 
