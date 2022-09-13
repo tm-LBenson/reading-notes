@@ -37,6 +37,12 @@ Why should we avoid using inline styles?
   >They can also negatively affect performance, making the HTML take longer to load.  
   
 Review the block of code below and answer the following questions:
+     ```
+  h2 { 
+     color: black;
+     padding: 5px;
+   }
+```
   What represents the selector?
   h1 is the selector for all ```<h1>``` elements
   
@@ -52,12 +58,7 @@ Review the block of code below and answer the following questions:
   >the first half of the declaraction is the property; color and padding are both properties. 
   
   
-   ```
-  h2 { 
-     color: black;
-     padding: 5px;
-   }
-```
+
 
 
 ## Things I want to know more about
