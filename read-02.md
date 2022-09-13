@@ -36,25 +36,25 @@ Why should we avoid using inline styles?
   >inline styles override style sheets with the highest level of specificity  
   >They can also negatively affect performance, making the HTML take longer to load.  
   
-Review the block of code below and answer the following questions:
-     ```
+Review the block of code below and answer the following questions:  
+ ```
   h2 { 
      color: black;
      padding: 5px;
    }
-```
-  What represents the selector?
-  h1 is the selector for all ```<h1>``` elements
+```   
+  What represents the selector?  
+  h1 is the selector for all ```<h1>``` elements  
   
   
-  Which components are the CSS declarations?
+  Which components are the CSS declarations?   
   ```
   color: black;
   padding: 5px;
-  ```
-  >the entire code block above are the declarations. In this case there are 2 declarations
-  
-  Which components are considered properties?
+  ```   
+  >the entire code block above are the declarations. In this case there are 2 declarations  
+    
+  Which components are considered properties?  
   >the first half of the declaraction is the property; color and padding are both properties. 
   
   
