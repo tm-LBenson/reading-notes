@@ -49,11 +49,12 @@ Review the block of code below and answer the following questions:
   
   
   
-   ```h2 { ```
-    ``` color: black;```
-     ```padding: 5px;```
-  ``` }```
-
+   ```
+  h2 { 
+     color: black;
+     padding: 5px;
+   }
+```
 
 
 ## Things I want to know more about
