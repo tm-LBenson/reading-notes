@@ -72,6 +72,6 @@ Describe a real-world example of when a conditional statement should be used in 
 >A real-world example of a conditional would be checking authentication during the login of an account. 
 
 Give an example of when a Loop is useful in JavaScript.  
->Loops are useful for iterating over an array or meeting a repeating action until a condition is met.
+>Loops are useful for iterating over an array or performing a repeating action until a condition is met.
 
 ## Things I want to know more about
