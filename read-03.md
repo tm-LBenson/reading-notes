@@ -1,3 +1,5 @@
+Lists in HTML can be the framework for building site navigation or listing important information. Understanding how and when to use lists will also be useful for SEO and Screen readers. In my opinion, the box model is probably one of the essential parts of CSS. Everything done in styling is built on and around the box model. Learning arrays, loops, and even objects in JavaScript are potent tools that will lead to more optimized code and allow for innovation with my coding style. 
+
 ## Learn HTML  
 
 When should you use an unordered list in your HTML document?    
@@ -41,3 +43,35 @@ What data types can you store inside of an Array?
 Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?  
 >The people array is valid JavaScript; you can access the data by using the index of the nested array you wish to select, followed by the index of the item in the nested array you want to. 
 >example: ```people[0][0]``` will access 'pete'
+
+List five shorthand operators for assignment in javascript and describe what they do.
+```+=```  > add to the current variable and mutate the variable to the new value
+```-=```  > subtract to the current variable and mutate the variable to the new value
+```/=```  > divide to the current variable and mutate the variable to the new value
+```*=```  > multiply to the current variable and mutate the variable to the new value
+```++```  > add 1 to the current variable and mutate the variable to the new value
+
+
+
+Read the code below and evaluate the last expression and explain what the result would be and why.
+```
+ let a = 10;
+ let b = 'dog';
+ let c = false;
+
+ // evaluate this
+ (a + c) + b;
+ ```  
+ > the answer will be the string '10dog'
+> false = 0
+> true = 1
+> 'dog' is a string, and 10 is a number. JavaScript will change the data type of a number to a string if they are added together and concatenated instead of attempting math.
+> so the equation simplified is (10 + 0) + 'dog'
+
+Describe a real-world example of when a conditional statement should be used in a JavaScript program.  
+>A real-world example of a conditional would be checking authentication during the login of an account. 
+
+Give an example of when a Loop is useful in JavaScript.  
+>Loops are useful for iterating over an array or meeting a repeating action until a condition is met.
+
+## Things I want to know more about
