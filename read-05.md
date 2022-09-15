@@ -34,27 +34,27 @@ What image type would you use to display a screenshot on your website and why?
 
 
 Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
+>The foreground color is the color of the content. For example, you have often have black text (black is the foreground color) on a white background color. 
 
 
 
-
-Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
-
+Your friend asks you to give his colorless blog website a touch-up. How would you use color to give his blog some character?
+>I would add a light background color to soften the brightness of the page, to make it easier on the eyes. Perhaps a light blue, because blue tends to be a more trust feeling color. I could add black or dark backgrounds to borders around certain elements to make them "pop." Adding a bright green to any call to action buttons could attract readers' attention and get them to sign up.
 
 
 
 What should you consider when choosing fonts for an HTML document?
-
+>You should consider what the web page is being used for. For example, serif fonts are often used on websites for older establishments to give them the old roman look. An example could be banks or schools to give them a feel of age. Sans-serif fonts are good for professional sites but can be accented with a serif font. For example, you could use a san-serif ```<H1>``` and a serif ```<H2>``` element to give the site some accented fonts and bring attention to specific areas. 
 
 
 
 What do font-size, font-weight, and font-style do to HTML text elements?
-
+> font size changes the height and width of each character. Font weight adds thickness to characters; for example, a font weight of 700 will create bold text. 
 
 
 
 Describe two ways you could add spacing around the characters displayed in an h1 element.
-
+>To add spacing around characters you can use the letter-spacing property to push characters apart. You can use the line-spacing property to add spacing between lines. You can also use a different font which has extra space between the characters by default. 
 
 
 
