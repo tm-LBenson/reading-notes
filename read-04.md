@@ -45,11 +45,11 @@ What is a key difference between fixed positioning and absolute positioning?
 ## Functions – Reusable Blocks of Code  
 
 Describe the difference between a function declaration and a function invocation.
->function declaration is when the function is written and arguments provided. Function invocation is when the function is called and can return a value.
+>function declaration is when the function is written and parameters provided. Function invocation is when the function is called and can return a value.
 
 
 What is the difference between a parameter and an argument?  
->parameters are used when a function is invoked. aruguements are setup during function declaration. 
+>arguements are used when a function is invoked. parameters are setup during function declaration. 
 
 
 # Miscellaneous  
