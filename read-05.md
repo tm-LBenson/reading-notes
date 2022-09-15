@@ -10,7 +10,7 @@ Reading
 
 
 What is a real world use case for the alt attribute being used in a website?  
-The alt attritubute can be used for screen readers to describe what the image is displaying to a users. It can also be used to assist with SEO.
+>The alt attritubute can be used for screen readers to describe what the image is displaying to a users. It can also be used to assist with SEO.
 
 
 How can you improve the accessibility of images in an HTML document?  
@@ -19,7 +19,7 @@ How can you improve the accessibility of images in an HTML document?
 
 Provide an example of when the figure element would be useful in an HTML document.  
 from https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure
->"Usually a <figure> is an image, illustration, diagram, code snippet, etc., that is referenced in the main flow of a document, but that can be moved to another part of the document or to an appendix without affecting the main flow."  
+>"Usually a ```<figure>``` is an image, illustration, diagram, code snippet, etc., that is referenced in the main flow of a document, but that can be moved to another part of the document or to an appendix without affecting the main flow."  
 
 Describe the difference between a gif image and an SVG image, pretend you are explaining to an elder in your community.  
 >a GIF image typically is an image that moves for a couple of seconds, then reverts to its starting position so it can move again.  
