@@ -10,24 +10,25 @@ Reading
 
 
 What is a real world use case for the alt attribute being used in a website?  
+The alt attritubute can be used for screen readers to describe what the image is displaying to a users. It can also be used to assist with SEO.
 
 
-
-How can you improve accessibility of images in an HTML document?  
-
+How can you improve the accessibility of images in an HTML document?  
+>Scaling an image down and using a lightweight file type can assist with low bandwidth connections. Making an image responsive can help with mobile access, and >adding the alt element can assist with screen readers.  
 
 
 Provide an example of when the figure element would be useful in an HTML document.  
+from https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure
+>"Usually a <figure> is an image, illustration, diagram, code snippet, etc., that is referenced in the main flow of a document, but that can be moved to another part of the document or to an appendix without affecting the main flow."  
 
-
-
-Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.  
-
+Describe the difference between a gif image and an SVG image, pretend you are explaining to an elder in your community.  
+>a GIF image typically is an image that moves for a couple of seconds, then reverts to its starting position so it can move again.  
+>an SVG is an image has the ability to be shrunk down to a tiny icon, stretched to any size, and even placed on a billboard without losing any quality. 
 
 
 What image type would you use to display a screenshot on your website and why?  
-
-
+>I would use JPEG format. The JPEG typically has a small file size which can help with load times on mobile devices. Also, normally a screenshot will not require a lot of detail, so a PNG would not be necessary.  
+  
 # Learn CSS  
 ## [Using Color in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color) [Styling HTML Text Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)  
 
