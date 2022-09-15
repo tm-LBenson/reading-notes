@@ -12,7 +12,7 @@
 
 ## [Daily Reading Assignment 3](https://tm-lbenson.github.io/reading-notes/read-03)
 
-## Daily Reading Assignment 4
+## [Daily Reading Assignment 4](https://tm-lbenson.github.io/reading-notes/read-04)
 
 ## Daily Reading Assignment 5
 
@@ -36,4 +36,4 @@
 
 ## Daily Reading Assignment 15
 
-*This document was last updated on 9/13/2022*
+*This document was last updated on 9/14/2022*
