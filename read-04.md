@@ -1,5 +1,5 @@
-## Learn HTML
-# Creating Hyperlinks
+# Learn HTML
+## Creating Hyperlinks
 
 To create a basic link, we wrap text or other content inside what element?  
 >We wrap text inside the "`<a>` "elements to create a basic link
@@ -14,8 +14,8 @@ from https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Cr
   > Be sure to write the title of the link in plain text so it can be read/clicked by the user  
 
 
-## CSS Layout  
-# CSS Layout: Normal Flow CSS Layout: Positioning  
+# CSS Layout  
+## CSS Layout: Normal Flow CSS Layout: Positioning  
 
 What is meant by "normal flow"?   
 From https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction  
@@ -39,8 +39,8 @@ Name a few advantages to use absolute positioning on an element.
 What is a key difference between fixed positioning and absolute positioning?  
 >absolute positions relative to the parent element, fixed positioning positions an element in relation to the viewport, so it stays on the screen as the page is scrolled. 
 
-## Learn JS
-# Functions – Reusable Blocks of Code  
+# Learn JS
+## Functions – Reusable Blocks of Code  
 
 Describe the difference between a function declaration and a function invocation.
 >function declaration is when the function is written and arguments provided. Function invocation is when the function is called and can return a value.
@@ -50,8 +50,8 @@ What is the difference between a parameter and an argument?
 >parameters are used when a function is invoked. aruguements are setup during function declaration. 
 
 
-## Miscellaneous  
-# 6 Reasons for Pair Programming  
+# Miscellaneous  
+## 6 Reasons for Pair Programming  
 
 Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.  
 > 1. Greater efficiency  
