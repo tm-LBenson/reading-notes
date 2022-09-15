@@ -1,3 +1,5 @@
+Hyperlinks are another fundamental subject that will allow me to create multiple pages or links to outside sources. Laying out CSS can be very challenging. A basic understanding of flow, block elements, and positioning will be used with most styling techniques. Having modular, reusable code will allow me to apply the DRY principle and add lots of functionality to my pages. 
+
 # Learn HTML
 ## Creating Hyperlinks
 
