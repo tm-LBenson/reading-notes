@@ -16,7 +16,7 @@
 
 ## [Daily Reading Assignment 5](https://tm-lbenson.github.io/reading-notes/read-05)
 
-## Daily Reading Assignment 6
+## [Daily Reading Assignment 6](https://tm-lbenson.github.io/reading-notes/read-06)
 
 ## Daily Reading Assignment 7
 
