@@ -26,19 +26,20 @@ Give an example for when you would need to use bracket notation to access an obj
  }
  
  cardsInHand[Card1]
-```
+```  
+
 >in the above code block, Card1 could be a variable to check which card a user is holding in their hand. The variable must reference a string.
 
 Evaluate the code below. What does the term this refer to and what is the advantage to using this?  
 ```
-const dog = {
-  name: 'Spot',
-  age: 2,
-  color: 'white with black spots',
-  humanAge: function (){
-    console.log(`${this.name} is ${this.age*7} in human years`);
-  }
-}
+const dog = {  
+  name: 'Spot',  
+  age: 2,  
+  color: 'white with black spots',  
+  humanAge: function (){  
+    console.log(`${this.name} is ${this.age*7} in human years`);  
+  }  
+}  
 ```
 
 >In the case of the code block above, 'this' refers to the dog object.  
