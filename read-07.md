@@ -1,4 +1,6 @@
 
+Understanding how to lay out objects is vital to implementing efficient modular code. Building objects with literal can work in some small applications, but adding new Objects programmatically could be challenging and create bugs. In addition, debugging would be a challenge when methods are located in hundreds of different objects instead of just the prototype.
+
 ## Readings: Object-Oriented Programming, HTML Tables
 
 # Reading
