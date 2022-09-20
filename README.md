@@ -18,9 +18,9 @@
 
 ## [Daily Reading Assignment 6](https://tm-lbenson.github.io/reading-notes/read-06)
 
-## Daily Reading Assignment 7
+## [Daily Reading Assignment 7](https://tm-lbenson.github.io/reading-notes/read-07)
 
-## Daily Reading Assignment 8
+## [Daily Reading Assignment 8](https://tm-lbenson.github.io/reading-notes/read-08)
 
 ## Daily Reading Assignment 9
 
@@ -36,4 +36,4 @@
 
 ## Daily Reading Assignment 15
 
-*This document was last updated on 9/15/2022*
+*This document was last updated on 9/19/2022*
