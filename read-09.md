@@ -34,7 +34,7 @@ Describe the event object. Why is the target within the event object useful?
 
 
 What is the difference between event bubbling and event capturing?  
-event bubbling will have nested elements with multiple events causing the nested event to trigger a parent element's event listener is triggered. A way to control which order the events are fired in is event capturing. Event capturing is controlling the event capturing. 
+>event bubbling will have nested elements with multiple events causing the nested event to trigger a parent element's event listener is triggered. A way to control which order the events are fired in is event capturing. Event capturing is controlling the event capturing. 
 
 
 
