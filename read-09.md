@@ -22,7 +22,7 @@ Learn JS
 [Introduction To Events.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 How would you describe events to a non-technical friend?  
-events are anything a users does on a webpage, such as type, click, mouse-over, and even any keypress can be an event. 
+>events are anything a users does on a webpage, such as type, click, mouse-over, and even any keypress can be an event. 
 
 
 When using the addEventListener() method, what 2 arguments will you need to provide?  
