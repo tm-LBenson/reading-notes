@@ -22,18 +22,18 @@
 
 ## [Daily Reading Assignment 8](https://tm-lbenson.github.io/reading-notes/read-08)
 
-## Daily Reading Assignment 9
+## [Daily Reading Assignment 9](https://tm-lbenson.github.io/reading-notes/read-09)
 
-## Daily Reading Assignment 10
+## [Daily Reading Assignment 10](https://tm-lbenson.github.io/reading-notes/read-10)
 
-## Daily Reading Assignment 11
+## [Daily Reading Assignment 11](https://tm-lbenson.github.io/reading-notes/read-11)
 
-## Daily Reading Assignment 12
+## [Daily Reading Assignment 12](https://tm-lbenson.github.io/reading-notes/read-12)
 
-## Daily Reading Assignment 13
+## [Daily Reading Assignment 13](https://tm-lbenson.github.io/reading-notes/read-13)
 
-## Daily Reading Assignment 14
+## [Daily Reading Assignment 14](https://tm-lbenson.github.io/reading-notes/read-14)
 
-## Daily Reading Assignment 15
+## [Daily Reading Assignment 15](https://tm-lbenson.github.io/reading-notes/read-15)
 
-*This document was last updated on 9/19/2022*
+*This document was last updated on 9/21/2022*
