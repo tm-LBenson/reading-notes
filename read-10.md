@@ -1,7 +1,7 @@
 Debugging can be the hardest part of coding. Figuring out new logic can create bugs that require time to figure out and fix. Learning how to debug can save time and make for more effecient coding and understanding of the language. 
 
 # Reading
-## [What Went Wrong? Troubleshooting JavaScript.] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
+## [What Went Wrong? Troubleshooting JavaScript.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
 
 Name some key differences between a Syntax Error and a Logic Error.  
 > A syntax error is an error in how the code is written. JavaScript wont know how to run the code do to the mistake, it could be a typo, or a missing bracket.
