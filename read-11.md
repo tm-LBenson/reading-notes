@@ -23,8 +23,9 @@ Write a very short story where <audio> and <video> are characters.  
   
 ## [A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-How does Grid layout differ from Flex?  
-  >A grid layout is two-dimensional, and Flex is adjusted in 1 dimension. Therefore, the Grid can be structured through templates, and a flexbox cannot. 
+How does Grid layout differ from Flex?  
+  
+  >A grid layout is two-dimensional, and Flex is adjusted in 1 dimension. Therefore, the Grid can be structured through templates, and a flexbox cannot. 
   
   
 Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.  
