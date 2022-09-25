@@ -5,7 +5,7 @@ Using audio, video, and images in HTML, CSS, and JavaScript is vital for buildin
 #Reading
 ## [Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
-Explain how the ability to use video and audio on the web has evolved since the early 2000s.  
+Explain how the ability to use video and audio on the web has evolved since the early 2000s.  
 > Most users in the early 2000s would be connecting with dial-up internet. Therefore, the use of video would be limited by internet speed. However, almost all users have access to higher internet speeds today, and videos and audio can be embedded onto any page to make a page more dynamic. 
 
 
@@ -27,7 +27,8 @@ How does Grid layout differ from Flex?  
   >A grid layout is two-dimensional, and Flex is adjusted in 1 dimension. Therefore, the Grid can be structured through templates, and a flexbox cannot. 
   
   
-Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.  
+Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.  
+  
   >Grid container is the parent element that contains a grid  
   >the grid line can be turned on to view the grid layout and see where items will align when using the grid system.
   > the grid items are the elements contained within the grid container and will be manipulated 
@@ -35,16 +36,18 @@ Grid container, grid item, and grid line are a few important terms to understand
   
 ## [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)  
 
-Besides making a site visually appealing across different screen sizes, why should developers make images responsive?   
+Besides making a site visually appealing across different screen sizes, why should developers make images responsive?  
+  
   > Making images responsive makes a site more professional, attracting a wider audience. It can also improve SEO bringing your site to the top of google searches.  
   
   
 Define the following <img> attributes srcset and sizes. Write an example of how they are used.  
-  ```<img>``` is the tag used to add the attributes srcset, and sizes. srcset allows for a list of images to the browser can choose a lower quality image for lower network speeds, display types, or sizes. In addition, it allows for a responsive design and a more dynamic page. 
+  
+  >```<img>``` is the tag used to add the attributes srcset, and sizes. srcset allows for a list of images to the browser can choose a lower quality image for lower >network speeds, display types, or sizes. In addition, it allows for a responsive design and a more dynamic page. 
   
   
 How is srcset more helpful for responsive images than CSS or JavaScript?  
-  If I were to use CSS or JavaScript to make multiple images responsive, I would have to set display none to the extra images and load them in even if they are not being used. With srcset the images are only loaded in if the browser says they are needed.   
+  >If I were to use CSS or JavaScript to make multiple images responsive, I would have to set display none to the extra images and load them in even if they are not >being used. With srcset the images are only loaded in if the browser says they are needed.   
   
   
 
