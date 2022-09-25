@@ -38,13 +38,12 @@ Besides making a site visually appealing across different screen sizes, why shou
   > Making images responsive makes a site more professional, attracting a wider audience. It can also improve SEO bringing your site to the top of google searches.  
   
   
-Define the following <img> attributes srcset and sizes. Write an example of how they are used.  
-  
-  >```<img>``` is the tag used to add the attributes srcset, and sizes. srcset allows for a list of images to the browser can choose a lower quality image for lower >network speeds, display types, or sizes. In addition, it allows for a responsive design and a more dynamic page. 
+Define the following <img> attributes srcset and sizes. Write an example of how they are used.
+  >```<img>``` is the tag used to add the attributes srcset, and sizes. srcset allows for a list of images to the browser can choose a lower quality image for lower network speeds, display types, or sizes. In addition, it allows for a responsive design and a more dynamic page. 
   
   
-How is srcset more helpful for responsive images than CSS or JavaScript?  
-  >If I were to use CSS or JavaScript to make multiple images responsive, I would have to set display none to the extra images and load them in even if they are not >being used. With srcset the images are only loaded in if the browser says they are needed.   
+How is srcset more helpful for responsive images than CSS or JavaScript?  
+  >If I were to use CSS or JavaScript to make multiple images responsive, I would have to set display none to the extra images and load them in even if they are not being used. With srcset the images are only loaded in if the browser says they are needed.   
   
   
 
