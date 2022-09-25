@@ -14,11 +14,11 @@ Describe the use of the src and controls attributes in the <video> element.  
   
   
 Why is it important to have fallback content inside the <video> element?  
-  >If the SRC link breaks, or the user's broadband is too slow to load the video, then having fallback content will allow for something else to take the place of the video instead of shifting content on a page from its inability to load. 
+  >If the SRC link breaks, or the user's broadband is too slow to load the video, then having fallback content will allow for something else to take the place of the >video instead of shifting content on a page from its inability to load. 
   
   
 Write a very short story where <audio> and <video> are characters.  
-  >There was once an excellent star in the entertainment world; his name was "audio the star." He provided entertainment to everyone uncontested. Then one-day, broadband was invented. (enter video stage left). Video walked up to the audio and stabbed him to death; this is how video killed the audio star, and no one was sad about it. 
+  >There was once an excellent star in the entertainment world; his name was "audio the star." He provided entertainment to everyone uncontested. Then one-day, >broadband was invented. (enter video stage left). Video walked up to the audio and stabbed him to death; this is how video killed the audio star, and no one was sad >about it. 
   
   
 ## [A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
