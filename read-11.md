@@ -35,8 +35,8 @@ Grid container, grid item, and grid line are a few important terms to understand
 ## [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)  
 
 Besides making a site visually appealing across different screen sizes, why should developers make images responsive?  
-  
-  > Making images responsive makes a site more professional, attracting a wider audience. It can also improve SEO bringing your site to the top of google searches.  
+
+  > Making images responsive makes a site more professional, attracting a wider audience. It can also improve SEO bringing your site to the top of google searches.  
   
   
 Define the following <img> attributes srcset and sizes. Write an example of how they are used.
