@@ -20,7 +20,7 @@ What does a CSS transition allow the developer to do to an element?
 
 
 How does a CSS animation differ from a CSS transition?  
-CSS animation uses keyframes to set breakpoints and change properties frame by frame. Transitions move to the new property with a set timer and a style applied to how it transitions, such as "ease-in."
+>CSS animation uses keyframes to set breakpoints and change properties frame by frame. Transitions move to the new property with a set timer and a style applied to how it transitions, such as "ease-in."
 
 
 
