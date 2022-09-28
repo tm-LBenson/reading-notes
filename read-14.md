@@ -27,12 +27,12 @@ CSS animation uses keyframes to set breakpoints and change properties frame by f
 [8 simple CSS3 transitions that will wow your users]() 
 
 What are some benefits of using CSS transitions on websites?  
-Transitions on a website can bring a website to life. They can make a call to action button more enticing to click; colors can slowly change, so it's not shocking to a user to have it change all of a sudden. A gradual smooth change is a better experience for the user. 
+>Transitions on a website can bring a website to life. They can make a call to action button more enticing to click; colors can slowly change, so it's not shocking to a user to have it change all of a sudden. A gradual smooth change is a better experience for the user. 
 
 
 
 How does this topic fit in with your long-term goals?
-Transitions and animations will be used in most of the sites that I will design to give the site life and make it look more professional.
+>Transitions and animations will be used in most of the sites that I will design to give the site life and make it look more professional.
 
 
 ## Things I want to know more about
