@@ -1,10 +1,10 @@
 # Code 102 Reading Notes
 
-_This is where the notes for the 102 course would be_
+_This is where the notes for the 102 course would be had I not tested into 201_
 
 # Code 201 Reading Notes
 
-> This will serve as a table of contents for the reading assignments I will be taking.
+> This will serve as a table of contents for the 201 reading assignments I will be taking.
 
 **Table of Contents:**
 
@@ -38,4 +38,12 @@ _This is where the notes for the 102 course would be_
 
 ## [Daily Reading Assignment 15](https://tm-lbenson.github.io/reading-notes/201-notes/read-15)
 
-_This document was last updated on 9/21/2022_
+# Code 301 Reading Notes
+
+> This will serve as a table of contents for the reading assignments in 301 I will be taking.
+
+## [Prework Reading Assignment](https://tm-lbenson.github.io/reading-notes/301-notes/prework)
+
+**Table of Contents:**
+
+_This document was last updated on 10/9/2022_
