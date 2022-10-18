@@ -14,7 +14,8 @@ Put the following things in the order that they happen:
 
 
 What does componentDidMount do?  
-
+> componentDidMount is a method that will call after the component is rendered. 
+> It runs only once after the mount finishes. 
 
 
 Videos
