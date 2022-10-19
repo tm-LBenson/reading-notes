@@ -20,7 +20,7 @@ What is the purpose of a key?
 > A Key on each list item will prevent react from re-rendering an entire array each time a single component is updated. The key shows react the order to render an array.
 
 
-### [The Spread Operator]()  
+### [The Spread Operator]((https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)  
 
 What is the spread operator?  
 >Semantically speaking, there is no such thing as a ```spread operator``` only ```spread syntax``` or ```spread element```; The Spread syntax is used to take all elements of an array and move them into a new element with each index seperated by a comma.  
@@ -51,7 +51,7 @@ Give an example of using the spread operator to combine two arrays.
 
 
 Give an example of using the spread operator to add a new item to an array.  
-
+> ```let newArr = [...arr, 7]```
 
 
 Give an example of using the spread operator to combine two objects into one.  
@@ -68,7 +68,17 @@ Give an example of using the spread operator to combine two objects into one.
 ## Videos  
 ### [How to Pass Functions Between Components]()  
 
-In the video, what is the first step that the developer does to pass functions between components?
-In your own words, what does the increment function do?
-How can you pass a method from a parent component into a child component?
-How does the child component invoke a method that was passed to it from a parent component?
+In the video, what is the first step that the developer does to pass functions between components?  
+> The developer created a a function, and passed in a person object
+
+In your own words, what does the increment function do?  
+> It iterates over the people to find a matching name. Then adjusts the state to increment 
+
+How can you pass a method from a parent component into a child component?  
+> You can pass the method as props in the parent element
+
+
+How does the child component invoke a method that was passed to it from a parent component?  
+> ```this.props.PropMethodName(state)```
+
+
