@@ -41,6 +41,12 @@ List 4 things that the spread operator can do.
 
 
 Give an example of using the spread operator to combine two arrays.  
+> ```const arr = ['a','b','c'];```  
+> ``` const arr2 = [1,2,3];```  
+> ```const newArr = [...arr, ...arr2];```
+> ```console.log(newArr);```
+> Expected output:  
+> ``` ['a', 'b', 'c', 1, 2, 3]```
 
 
 
@@ -49,9 +55,14 @@ Give an example of using the spread operator to add a new item to an array.
 
 
 Give an example of using the spread operator to combine two objects into one.  
+> ```const obj1 = { a : 1, b : 2 };```  
 
+> ```const obj2 = { c : 3, d : 4 };```  
 
-
+> ```const obj3 = {...obj1, ...obj2 };```  
+> ```console.log(obj3)```
+> Expected output:  
+> ```{a: 1, b: 2, c: 3, d: 4}```
 
 
 ## Videos  
