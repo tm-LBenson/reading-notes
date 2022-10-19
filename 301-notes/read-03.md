@@ -23,11 +23,20 @@ What is the purpose of a key?
 ### [The Spread Operator]()  
 
 What is the spread operator?  
->Semantically speaking, there is no such thing as a ```spread operator``` only ```spread syntax``` or ```spread element```; The Spread syntax is used to take all elements of an array and move them into a new element with each index seperated by a comma.
+>Semantically speaking, there is no such thing as a ```spread operator``` only ```spread syntax``` or ```spread element```; The Spread syntax is used to take all elements of an array and move them into a new element with each index seperated by a comma.  
 >For example: ```const arr = [0,1,2,3]``` after using the spread syntax to call a function ```func(...arrr)``` would be the same as writing ```func(0,1,2,3)```
 
 
 List 4 things that the spread operator can do.  
+>From the [reading](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab) The spread syntax can do the following:  
+> - Copying an array
+> - Concatenating or combining arrays
+> - Using Math functions
+> - Using an array as arguments
+> - Adding an item to a list
+> - Adding to state in React
+> - Combining objects
+> - Converting NodeList to an array
 
 
 
