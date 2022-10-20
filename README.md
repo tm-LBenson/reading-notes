@@ -1,6 +1,6 @@
 ## Code 102 - Intro to Software Development
 ## Code 201 - Foundations of Software Development
-## [Code 301 - Intermediate Software Development](#code 301 reading notes)
+## [Code 301 - Intermediate Software Development](#code-301-reading-notes)
 ## Code 401 - Advanced Software Development
 
 # Code 102 Reading Notes
@@ -42,6 +42,7 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 ### [Daily Reading Assignment 14](https://tm-lbenson.github.io/reading-notes/201-notes/read-14)
 
 ### [Daily Reading Assignment 15](https://tm-lbenson.github.io/reading-notes/201-notes/read-15)
+
 
 # Code 301 Reading Notes
 
