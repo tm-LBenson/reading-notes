@@ -16,9 +16,10 @@ Once you have a static application, what do you need to add?
 
 
 What are the three questions you can ask to determine if something is state?  
-> ``` Is it passed in from a parent via props? If so, it probably isn’t state.
+> ``` 
+> Is it passed in from a parent via props? If so, it probably isn’t state.
 Does it remain unchanged over time? If so, it probably isn’t state.
-Can you compute it based on any other state or props in your component? If so, it isn’t state. ```  
+Can you compute it based on any other state or props in your component? If so, it isn’t state.```  
 
 
 
