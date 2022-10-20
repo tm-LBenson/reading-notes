@@ -39,5 +39,7 @@ Explore the greaterThan function as defined in the reading. In your own words, w
 
 
 Explain how either map or reduce operates, with regards to higher-order functions.  
-
+> Both map and reduce are methods that can be called on an array. When map is called, a callback funcation is passed into the method as an aruguement. 
+> The function is returned for each item in the array. A new array will be returned when the map method is finished on every element of the array it was called on.
+> higher-order functions take in a functions as an argument, and return a function just like the map and reduce methods. 
 
