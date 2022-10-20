@@ -84,4 +84,4 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 
 **Table of Contents:**
 
-_This document was last updated on 10/13/2022_
+_This document was last updated on 10/20/2022_
