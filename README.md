@@ -1,7 +1,7 @@
 ## [Code 102 - Intro to Software Development](#code-102-reading-notes)
 ## [Code 201 - Foundations of Software Development](#code-201-reading-notes)
 ## [Code 301 - Intermediate Software Development](#code-301-reading-notes)
-## Code 401 - Advanced Software Development
+## [Code 401 - Advanced Software Development](#code-401-reading-notes)
 
 # Code 102 Reading Notes
 
