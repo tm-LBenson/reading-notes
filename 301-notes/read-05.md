@@ -1,6 +1,7 @@
 
-##Reading
-###[React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+## Reading  
+### [React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)  
+
 
 What is the single responsibility principle, and how does it apply to components?  
 >A component should only do 1 thing, if it does more it should be broken into smaller components. 
