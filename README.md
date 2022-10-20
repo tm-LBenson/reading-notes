@@ -84,6 +84,8 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 
 > This will serve as a table of contents for the reading assignments in 401 I will be taking.
 
+# Code 401 Reading Notes
+
 **Table of Contents:**
 
 ### [Daily Reading Assignment 1](https://tm-lbenson.github.io/reading-notes/401-notes/read-01)
