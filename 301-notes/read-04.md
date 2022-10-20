@@ -25,8 +25,8 @@ Rewrite the following statement using a ternary statement:
   console.log(true);  
 } else {  
   console.log(false);  
-}```  
---------------------------------------  
+} ```  
+   
 ``` x===y ? console.log(true) : console.log(false) ```  
   
   
