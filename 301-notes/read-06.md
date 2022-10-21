@@ -1,5 +1,5 @@
 ## Reading
-### [An Introduction to Node.js on sitepoint.com] (https://www.sitepoint.com/an-introduction-to-node-js/)  
+### [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)  
 
 What is node.js?  
 > The Node.js homepage defines it as "Node.js® is an open-source, cross-platform JavaScript runtime environment."  
