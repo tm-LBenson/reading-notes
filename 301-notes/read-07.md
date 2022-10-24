@@ -57,7 +57,7 @@ Did you get your API key?
 
 
 Did you get your API key?  
-I created a new app, and aquired the access token
+>I created a new app, and aquired the access token
   
   
   
@@ -68,7 +68,7 @@ I created a new app, and aquired the access token
 
 
 Did you get your API key?  
-I created a new app, and aquired an access token for V3 and a second for V4
+>I created a new app, and aquired an access token for V3 and a second for V4
   
   
   
