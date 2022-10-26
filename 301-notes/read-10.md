@@ -15,7 +15,8 @@ What does LIFO mean?
 > Last in - first out; Like in an array with array.push(), array.pop()
 
 Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.  
-![Call Stack](https://user-images.githubusercontent.com/105423307/198051862-2eabd046-efb9-4540-84d2-6f538e499ac9.png)
+
+![image](https://user-images.githubusercontent.com/105423307/198052565-2d7b337f-3b3d-4b84-a02c-051b597fb670.png)
 
 
 What causes a Stack Overflow?  
