@@ -37,8 +37,8 @@ Which type of database is best for hierarchical data storage?
 
 
 Which type of database is best for scalability?  
-> SQL is best for vertically scaling, to get more performance you can add more CPU or RAM. 
-> NoSQL is horizontally scalable, and would require adding nodes, and more servers to get better performance. 
+> SQL is best for vertically scaling, to get more performance you can add more CPU or RAM, but it has a ceiling.  
+> NoSQL is horizontally scalable, and would require adding nodes, and more servers to get better performance, the data is split, but as long as it can be split, the server can be scaled.  
 
 
 Videos
