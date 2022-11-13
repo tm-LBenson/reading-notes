@@ -63,6 +63,6 @@
 >   Most commands have many useful command line options. Make sure you skim the man page for new commands so you are familiar with what they can do and what is available.  
 
 
-### Cheat Sheet - A quick reference for the main points covered in this tutorial.
-
+### [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php) - A quick reference for the main points covered in this tutorial.
+>The cheat sheet contains 10 different topics sorted into cards, its easy to follow a long with and is current bookmarked. 
   
