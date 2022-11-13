@@ -29,6 +29,8 @@
 >   Beware of silly typos.
 
 ### Manual Pages - Learn how to make the most of the Linux commands you are learning.  
+> The man command is a tool used to coolup commands, making it memorizing commands will not be necessary. 
+
 > - man <command>  
 >   Look up the manual page for a particular command.  
 > - man -k <search term>  
@@ -42,7 +44,23 @@
 
 
 ### File Manipulation - How to make, remove, rename, copy and move files and directories.  
-
+  > Files are easily manipulated in the terminal using simple commmands. Below are the list of commands listed in the reading. 
+> - mkdir  
+>   Make Directory - ie. Create a directory.  
+> - rmdir  
+>   Remove Directory - ie. Delete a directory.  
+> - touch  
+>   Create a blank file.  
+> - cp  
+>   Copy - ie. Copy a file or directory.  
+> - mv
+>   Move - ie. Move a file or directory (can also be used to rename).  
+> - rm  
+>   Remove - ie. Delete a file.  
+> - No undo  
+>   The Linux command line does not have an undo feature. Perform destructive actions carefully.  
+> - Command line options  
+>   Most commands have many useful command line options. Make sure you skim the man page for new commands so you are familiar with what they can do and what is available.  
 
 
 ### Cheat Sheet - A quick reference for the main points covered in this tutorial.
