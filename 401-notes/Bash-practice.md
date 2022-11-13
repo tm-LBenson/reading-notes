@@ -44,7 +44,7 @@
 
 
 ### File Manipulation - How to make, remove, rename, copy and move files and directories.  
-  > Files are easily manipulated in the terminal using simple commmands. Below are the list of commands listed in the reading. 
+  > Files are easily manipulated in the terminal using simple commmands. Below are the list of commands listed in the reading. Once a command is sent, there is no undo.  
 > - mkdir  
 >   Make Directory - ie. Create a directory.  
 > - rmdir  
@@ -64,3 +64,5 @@
 
 
 ### Cheat Sheet - A quick reference for the main points covered in this tutorial.
+
+  
