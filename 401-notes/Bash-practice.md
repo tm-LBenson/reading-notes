@@ -17,6 +17,7 @@
 
 
 ### More About Files - Find out some interesting characteristics of files and directories in a Linux environment.   
+  > Linux is a great tool to manipulate files   
 > - file  
 > obtain information about what type of file a file or directory is.  
 > - ls -a  
