@@ -3,7 +3,8 @@
 > A command line, or terminal, is a text based interface to the system. You enter commands beside the username, and any command line arugments after that. 
 
 
-### Basic Navigation - An introduction to the Linux directory system and how to get around it.  
+### Basic Navigation - An introduction to the Linux directory system and how to get around it.
+The terminal is navigated using simple commands. The commands can be chained together, or executed one by one. References the cheat sheet will make it easier to navigate around the terminal.  
 > - pwd  
 >Print Working Directory - ie. Where are we currently.  
 > - ls  
@@ -16,7 +17,8 @@
 >A file or directory location in relation to the root of the file system.  
 
 
-### More About Files - Find out some interesting characteristics of files and directories in a Linux environment.   
+### More About Files - Find out some interesting characteristics of files and directories in a Linux environment.
+Using ls after each command is a way to ensure you do not have typos. Using tab to auto complete is another way to prevent mistakes when navigating the terminal.  
   > Linux is a great tool to manipulate files   
 > - file  
 > obtain information about what type of file a file or directory is.  
@@ -30,7 +32,7 @@
 >   Beware of silly typos.
 
 ### Manual Pages - Learn how to make the most of the Linux commands you are learning.  
-> The man command is a tool used to coolup commands, making it memorizing commands will not be necessary. 
+> The man command is a tool used to coolup commands, making it memorizing commands will not be necessary.  
 
 > - man <command>  
 >   Look up the manual page for a particular command.  
