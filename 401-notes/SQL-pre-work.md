@@ -2,9 +2,9 @@
 
 ##Take aways  
 1. SQL is Relational Database  
-  - SQL data is stored in a tables; a collection of related data entries using rows and columns to store the data.   
+  - SQL data is stored in a tables; a collection of related data entries using rows and columns to store the data. Each table can be viewed separately, or data can be joined or modified using queries.    
 2. Queries  
-  - Queries are used to interface, view, and modify the data stored in each table. Queries can range from finding data, joining data, and removing data.  
+  - Queries are used to interface, view, and modify the data stored in each table. Queries can range from finding data, joining data, and removing data. By convention queries are normally written in caps.  
 3. Keys in SQL  
   - There are 3 types of keys in SQL.  
     1. A primary key is a field in a table that uniquely identifies each row/record in a database table.  
