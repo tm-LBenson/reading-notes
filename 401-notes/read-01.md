@@ -8,7 +8,16 @@
 
 
 ### What does it mean that Node is a JavaScript runtime?  
+  
+  
+  
 ### What is Node used for?  
-Additional Questions  
-Looking ahead at this module’s course schedule, What do you look forward to learning?  
-What are your learning goals after reading and reviewing the class README?  
+  
+  
+## Additional Questions  
+### Looking ahead at this module’s course schedule, What do you look forward to learning?  
+  
+  
+### What are your learning goals after reading and reviewing the class README?  
+ 
+ 
