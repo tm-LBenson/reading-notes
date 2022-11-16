@@ -89,6 +89,8 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 **Table of Contents:**
 ### [Engineering Readings](https://tm-lbenson.github.io/reading-notes/401-notes/engineering-readings.md)
 
+### [Data Structures and Algorithms](https://tm-lbenson.github.io/reading-notes/401-notes/data-structures-and-algorithms.md)
+
 ### [Daily Reading Assignment 1](https://tm-lbenson.github.io/reading-notes/401-notes/read-01)
 
 ### [Daily Reading Assignment 2](https://tm-lbenson.github.io/reading-notes/401-notes/read-02)
