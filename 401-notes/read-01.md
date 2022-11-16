@@ -19,8 +19,8 @@ To a "non-technical" it’s another version of the JavaScript language based on 
   
 ## Additional Questions  
 ### Looking ahead at this module’s course schedule, What do you look forward to learning?  
-  
+  There is nothing I do not look forward to learning in this upcoming schedule. I would love to add more to this list. Of all the topics I am looking forward to the most would be learning React with hooks, and Redux.  
   
 ### What are your learning goals after reading and reviewing the class README?  
- 
+ After reading the README, my learning goals are to master the workflow of building and deploying Node applications, modules, and tests; I will seamlessly be able to perform all tasks anytime required without referencing my notes. 
  
