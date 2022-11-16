@@ -50,7 +50,6 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 
 **Table of Contents:**
 
-### [Prework Reading Assignment](https://tm-lbenson.github.io/reading-notes/301-notes/prework)  
 
 ### [Daily Reading Assignment 1](https://tm-lbenson.github.io/reading-notes/301-notes/read-01)
 
