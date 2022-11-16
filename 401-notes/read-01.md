@@ -7,6 +7,7 @@
 ### How would you describe Node to a non-technical friend?  
 The Node.js homepage defines it as:
 >“Node.js® is an open-source, cross-platform JavaScript runtime environment.”  
+
 To a "non-technical" it’s another version of the JavaScript language based on vanilla JavaScript but with more features and functionality added in. 
 
 
