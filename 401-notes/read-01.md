@@ -5,7 +5,8 @@
 [Review if helpful: An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)  
 
 ### How would you describe Node to a non-technical friend?  
-The Node.js homepage defines it as >“Node.js® is an open-source, cross-platform JavaScript runtime environment.”
+The Node.js homepage defines it as
+>“Node.js® is an open-source, cross-platform JavaScript runtime environment.”
 A high-level definition, it’s another version of the JavaScript language based on vanilla JavaScript but with more features and functionality added in.
 
 
