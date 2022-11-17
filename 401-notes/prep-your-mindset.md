@@ -11,7 +11,7 @@
   
 [Watch Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)  
   
-[Watch Alain de Botton on Redefining Success.] (https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)  
+[Watch Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)  
   
 ### Assess your emotional intelligence. If you have done it in the past, now you can identify the areas you have grown in recently.  
   
