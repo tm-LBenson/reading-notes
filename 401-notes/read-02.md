@@ -11,13 +11,13 @@
   
 ### What is a module and why is modularity useful to us as developers?    
   
-### What is NPM?  
+[What is NPM?]()    
   
 ### What version of npm are you running on your machine?  
   
 ### What command would you type to install a library/package called ‘jshint’ into your node project?  
   
-### What is TDD?  
+[What is TDD?]()  
 
 
 
@@ -26,7 +26,7 @@
 ### What are three expected benefits of testing  
 
 ### Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.  
-CI/CD  
+[CI/CD]()  
 
 ### What are three benefits of Continuous Integration?  
   
