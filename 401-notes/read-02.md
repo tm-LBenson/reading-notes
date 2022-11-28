@@ -4,12 +4,19 @@
 [An introduction to NodeJS and Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)  
   
 ### Explain middleware, answer as though I were a non-technical recruiter.  
+
+Middleware are custom functions, or scripts are run on the request or response objects. They are ran during the request-respons-cycle.  
   
 ### Express the most popular __ __ ____.  
+
+Node Web Framework
   
 ### Express is “unopinionated.” What does that mean?  
+
+Unopinionated means there isn't a "right way" to do things. That can make the framework more versatile yet more challenging to use. 
   
-### What is a module and why is modularity useful to us as developers?    
+### What is a module and why is modularity useful to us as developers?  
+A module is a JavaScript library or file that can be imported with the require method. 
   
 [What is NPM?]()    
   
