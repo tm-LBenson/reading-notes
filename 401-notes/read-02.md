@@ -18,13 +18,15 @@ Unopinionated means there isn't a "right way" to do things. That can make the fr
 ### What is a module and why is modularity useful to us as developers?  
 A module is a JavaScript library or file that can be imported with the require method. 
   
-[What is NPM?]()    
+[What is NPM?](https://docs.npmjs.com/about-npm)    
   
 ### What version of npm are you running on your machine?  
   
+version 9.1.2  
 ### What command would you type to install a library/package called ‘jshint’ into your node project?  
   
-[What is TDD?]()  
+```npm i jshint```    
+[What is TDD?](https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1))   
 
 
 
@@ -33,7 +35,7 @@ A module is a JavaScript library or file that can be imported with the require m
 ### What are three expected benefits of testing  
 
 ### Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.  
-[CI/CD]()  
+[CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8&ab_channel=GitHubTraining%26Guides)  
 
 ### What are three benefits of Continuous Integration?  
   
