@@ -31,8 +31,16 @@ version 9.1.2
 
 
 ### Explain why tests are important. Please explain as though I were your non technical elder.  
+Tests are an important part of making sure code works before it goes into production. It allows for a way to check edge cases without having to rely on user feedback, or having unexpected downtime. 
 
 ### What are three expected benefits of testing  
+Directly from the reading:  
+> - many teams report significant reductions in defect rates, at the cost of a moderate increase in initial development effort  
+> - the same teams tend to report that these overheads are more than offset by a reduction in effort in projects’ final phases  
+> - although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling  
+
+  
+  
 
 ### Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.  
 [CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8&ab_channel=GitHubTraining%26Guides)  
