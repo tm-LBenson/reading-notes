@@ -36,15 +36,17 @@
   
 #### How do we treat keywords and parameters differently in SQL syntax?
   
-  
+  SQL keywords are normally written in all CAPS and parameters are written in lowercase
   
 #### Define normalization within the context of schemas and data.  
   
-  
+  Normalization is the process to eliminate data redundancy and enhance data integrity in the table
   
 #### Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.  
   
-  
+  One-to-one is like husband to wife
+  One-to-many is like husband to children
+  Many-to-many is like incoming mail in a house to people living in the house 
   
 Reflection
 #### What are your learning goals after reading and reviewing the class README?
