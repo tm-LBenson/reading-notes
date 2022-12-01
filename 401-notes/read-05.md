@@ -13,6 +13,18 @@
 - Anthropomorphize the concepts, and write a conversation between them  
 - Build a map of the information  
 - Construct a fill-in-the-blank worksheet for the topic  
+
+## Topic chosen to teach:
+Linked Lists - WHY, WHAT, HOW
+
+- WHY: 
+#### Why do we use Linked Lists?  
+  
+#### What is a linked List?  
+  
+#### How can we implement linked lists into our work flow?  
+  
+
 ## Resources  
 
 [Read and save for reference: Big O: Analysis of Algorithm Efficiency (Up through the section titled “Linear Complexity Growth”)](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html) 
