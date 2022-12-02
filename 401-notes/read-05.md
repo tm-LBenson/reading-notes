@@ -17,14 +17,35 @@
 ## Topic chosen to teach:
 Linked Lists - WHY, WHAT, HOW
 
-- WHY: 
 #### Why do we use Linked Lists?  
+  
+  Linked lists are efficient insertion and deletion. Linked lists are more efficient than arrays especially when dealing with memory alocation. The size for a linked list is not pre-defined allowing for dynamic data sizes. The linked lists can grow and shrink dynamically. 
   
 #### What is a linked List?  
   
+  A linked list a data structure that stores a collection of ordered data that can only be accessed sequentially with the next, prev, and val properties. 
+  
 #### How can we implement linked lists into our work flow?  
   
-
+  ```js
+  const list = {
+    head: {
+        value: 'this is a string'
+        next: {
+            value: 10                                             
+            next: {
+                value: 'another random string'
+                next: {
+                    value: 3
+                    next: null	
+                    }
+                }
+            }
+        }
+    }
+};
+  ```
+Another example of linked lists, is the middleware used in express. 
 ## Resources  
 
 [Read and save for reference: Big O: Analysis of Algorithm Efficiency (Up through the section titled “Linear Complexity Growth”)](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html) 
