@@ -18,11 +18,13 @@
   
 ### If Authentication is “you are who you say you are,” what is Authorization?  
   
-  
+  Authorization is having permission to access data because of the role assigned to who you are. 
   
 ### Name three primary rules defined for RBAC.  
   
-  
+>Role assignment: A subject can exercise a permission only if the subject has selected or been assigned a role.  
+>Role authorization: A subject's active role must be authorized for the subject. With rule 1 above, this rule ensures that users can take on only roles for which they are authorized.  
+>Permission authorization: A subject can exercise a permission only if the permission is authorized for the subject's active role. With rules 1 and 2, this rule ensures that users can exercise only permissions for which they are authorized.  
   
 ### Describe RBAC to a non-technical friend.  
   
