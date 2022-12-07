@@ -22,4 +22,4 @@ Note: The requirement is to spend one lab session working on this project; howev
   
 ## Reflection  
 ### What are your learning goals after reading and reviewing the class README?  
-  I am hoping to have a firm understanding of the previous labs, and feeling confident in my ability to built out an application, and able to present in the same manner. 
+  I hope to have a firm understanding of the previous labs and confidence in my ability to build an application and present it similarly.
