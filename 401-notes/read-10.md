@@ -1,6 +1,8 @@
+
+
 Diagram of the call stack
 
-image
+![callstack](https://user-images.githubusercontent.com/105423307/198052565-2d7b337f-3b3d-4b84-a02c-051b597fb670.png)
 
  
 
@@ -16,14 +18,13 @@ What does LIFO mean?
 
  
 
-Answers (highlight the text to view):
+Answers:
 
-<p style="color:white;">1. A call is the next task the script will perform. Such as function declaration, variable declaration, function calls.
+<span style="color:#FFFFFF;">1. A call is the next task the script will perform. Such as function declaration, variable declaration, function calls.
 
 2. The call stack is single execution.
 
-3. Last in - first out; Like in an array with array.push(), array.pop()</P>
+3. Last in - first out; Like in an array with array.push(), array.pop()</span>
 
- 
-(this is not intended for the use in darkmode)
+
  
