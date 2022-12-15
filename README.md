@@ -1,6 +1,9 @@
 ## [Code 102 - Intro to Software Development](#code-102-reading-notes)
+
 ## [Code 201 - Foundations of Software Development](#code-201-reading-notes)
+
 ## [Code 301 - Intermediate Software Development](#code-301-reading-notes)
+
 ## [Code 401 - Advanced Software Development](#code-401-reading-notes)
 
 # Code 102 Reading Notes
@@ -43,13 +46,11 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 
 ### [Daily Reading Assignment 15](https://tm-lbenson.github.io/reading-notes/201-notes/read-15)
 
-
 # Code 301 Reading Notes
 
 > This will serve as a table of contents for the reading assignments in 301 I will be taking.
 
 **Table of Contents:**
-
 
 ### [Daily Reading Assignment 1](https://tm-lbenson.github.io/reading-notes/301-notes/read-01)
 
@@ -86,6 +87,7 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 # Code 401 Reading Notes
 
 **Table of Contents:**
+
 ### [Engineering Readings](https://tm-lbenson.github.io/reading-notes/401-notes/engineering-readings)
 
 ### [Data Structures and Algorithms](https://tm-lbenson.github.io/reading-notes/401-notes/data-structures-and-algorithms)
