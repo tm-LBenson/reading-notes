@@ -122,4 +122,7 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 
 ### [Daily Reading Assignment 15](https://tm-lbenson.github.io/reading-notes/401-notes/read-15)
 
-_This document was last updated on 12/18/2022_
+### [Daily Reading Assignment 16](https://tm-lbenson.github.io/reading-notes/401-notes/read-16)
+
+### [Daily Reading Assignment 17](https://tm-lbenson.github.io/reading-notes/401-notes/read-17)
+
