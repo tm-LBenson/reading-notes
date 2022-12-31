@@ -129,3 +129,5 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 ### [Daily Reading Assignment 18](https://tm-lbenson.github.io/reading-notes/401-notes/read-18)
 
 ### [Daily Reading Assignment 19](https://tm-lbenson.github.io/reading-notes/401-notes/read-19)
+
+### [Daily Reading Assignment 20](https://tm-lbenson.github.io/reading-notes/401-notes/read-20)
