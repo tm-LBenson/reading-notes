@@ -40,10 +40,9 @@ A reactive user interface can be built with MobX by using its decorators and obs
 
 The tutorial collection on the link provided offers a range of guides for learning about Redux. It includes a quick start guide for getting up and running quickly, a tutorial on using Redux in a real-world scenario, and a guide that goes in-depth on how Redux works. Additionally, there is a live-streamed tutorial that covers the basics of setting up and using Redux, as well as updates on its development. The last 4 tutorials are specifically on using Redux Toolkit, including migrating existing applications to use it and using it with TypeScript.
 
-Bookmark and Review
-Redux Toolkit (RTK)
 
-HookState
+## Reflection
 
-Reflection
-What are your learning goals after reading and reviewing the class README?
+### What are your learning goals after reading and reviewing the class README?
+
+My learning goals after reading and reviewing the class README would be to understand the concerns addressed by Redux Toolkit, and how to use its core features like configureStore() and createSlice(). I also want to know how MobX makes it "impossible" to produce an inconsistent state and how to build a reactive user interface using MobX.
