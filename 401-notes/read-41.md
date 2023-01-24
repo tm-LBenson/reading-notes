@@ -8,9 +8,9 @@
 
 ### Name three Core Components of React Native and describe what they do.
 
--View: A container that supports layout with flexbox, style, some touch handling, and accessibility controls. It is similar to a div in web development.
--Text: A component for displaying text. It supports style and touch handling.
--Image: A component for displaying images. It supports a flexible image source, styles, and touch handling.
+- View: A container that supports layout with flexbox, style, some touch handling, and accessibility controls. It is similar to a div in web development.
+- Text: A component for displaying text. It supports style and touch handling.
+- Image: A component for displaying images. It supports a flexible image source, styles, and touch handling.
 
 ### What problem does React Native solve (why call it native)?
 
@@ -18,7 +18,7 @@ React Native solves the problem of building mobile apps that feel truly "native"
 
 ### What are the building blocks of a React Native app? How does that compare to a React app?
 
-The building blocks of a React Native app are the same as a React app: components and a virtual DOM. However, in React Native, these components map to native components (e.g. View maps to UIView on iOS and android.view on Android) and the virtual DOM is used to update the native views.
+The building blocks of a React Native app are the same as a React app: components and a virtual DOM. However, in React Native, these components map to native components (e.g. View maps to UIView on iOS and android.view on Android) and the virtual DOM is used to update the native views.  
 [expo](https://expo.dev/)
 
 ### What solution does expo provide?
@@ -31,10 +31,12 @@ Simplified
 
 ### What is the difference between React Native and Expo?
 
-The main difference between React Native and Expo is that React Native allows you to use the full power of the underlying platform, while Expo abstracts away many of the platform-specific details and provides a more opinionated workflow.
+The main difference between React Native and Expo is that React Native allows you to use the full power of the underlying platform, while Expo abstracts away many of the platform-specific details and provides a more opinionated workflow.  
 [expo snack](https://snack.expo.dev/)
 
-Checkout this tool. What does snack allow you to do?
+### Checkout this tool. What does snack allow you to do?
+
+Expo Snack is a web-based development environment for building and testing React Native apps. It allows developers to write code, test it in a simulated environment, and share it with others.  
 [ejecting](https://docs.expo.dev/versions/latest/expokit/eject)
 
 ### What does “eject” mean within the context of Expo?
