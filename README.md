@@ -92,6 +92,8 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 
 ### [Data Structures and Algorithms](https://tm-lbenson.github.io/reading-notes/401-notes/data-structures-and-algorithms)
 
+### [engineering-readings](https://tm-lbenson.github.io/reading-notes/401-notes/engineering-readings)
+
 ### [Daily Reading Assignment 1](https://tm-lbenson.github.io/reading-notes/401-notes/read-01)
 
 ### [Daily Reading Assignment 2](https://tm-lbenson.github.io/reading-notes/401-notes/read-02)
@@ -130,4 +132,32 @@ _This is where the notes for the 102 course would be had I not tested into 201_
 
 ### [Daily Reading Assignment 19](https://tm-lbenson.github.io/reading-notes/401-notes/read-19)
 
-### [Daily Reading Assignment 20](https://tm-lbenson.github.io/reading-notes/401-notes/read-20)
+### [Daily Reading Assignment 26](https://tm-lbenson.github.io/reading-notes/401-notes/read-26)
+
+### [Daily Reading Assignment 27](https://tm-lbenson.github.io/reading-notes/401-notes/read-27)
+
+### [Daily Reading Assignment 28](https://tm-lbenson.github.io/reading-notes/401-notes/read-28)
+
+### [Daily Reading Assignment 29](https://tm-lbenson.github.io/reading-notes/401-notes/read-29)
+
+### [Daily Reading Assignment 29](https://tm-lbenson.github.io/reading-notes/401-notes/read-29)
+
+### [Daily Reading Assignment 32](https://tm-lbenson.github.io/reading-notes/401-notes/read-32)
+
+### [Daily Reading Assignment 33](https://tm-lbenson.github.io/reading-notes/401-notes/read-33)
+
+### [Daily Reading Assignment 34](https://tm-lbenson.github.io/reading-notes/401-notes/read-34)
+
+### [Daily Reading Assignment 36](https://tm-lbenson.github.io/reading-notes/401-notes/read-36)
+
+### [Daily Reading Assignment 37](https://tm-lbenson.github.io/reading-notes/401-notes/read-37)
+
+### [Daily Reading Assignment 38](https://tm-lbenson.github.io/reading-notes/401-notes/read-38)
+
+### [Daily Reading Assignment 39](https://tm-lbenson.github.io/reading-notes/401-notes/read-39)
+
+### [Daily Reading Assignment 41](https://tm-lbenson.github.io/reading-notes/401-notes/read-41)
+
+### [Ethics in Tech](https://tm-lbenson.github.io/reading-notes/401-notes/ethics)
+
+### [Next.js and Gatsby.js](https://tm-lbenson.github.io/reading-notes/401-notes/next-gatsby)
