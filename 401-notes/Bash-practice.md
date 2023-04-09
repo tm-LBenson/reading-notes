@@ -1,71 +1,73 @@
+### [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php) - Understanding the Basics
 
-### [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php) - What is it, how does it work and how do I get to one.  
-> A command line, or terminal, is a text based interface to the system. You enter commands beside the username, and any command line arugments after that. 
+> The command line, also known as the terminal, is a text-based interface to the system. Commands are entered next to the username, with any subsequent arguments following the initial command.
 
+### Basic Navigation - Introduction to Navigating the Linux Directory System
 
-### Basic Navigation - An introduction to the Linux directory system and how to get around it.
-The terminal is navigated using simple commands. The commands can be chained together, or executed one by one. References the cheat sheet will make it easier to navigate around the terminal.  
+The terminal is navigated using a set of straightforward commands. These commands can be chained together or executed separately. Referring to the cheat sheet can greatly simplify the process of navigating the terminal.
+
 > - pwd  
->Print Working Directory - ie. Where are we currently.  
+>   Display the current working directory.
 > - ls  
->List the contents of a directory.  
+>   List the contents of a directory.
 > - cd  
->Change Directories - ie. move to another directory.  
+>   Change to a different directory.
 > - Relative path  
->A file or directory location relative to where we currently are in the file system.  
+>   The location of a file or directory relative to the current directory.
 > - Absolute path  
->A file or directory location in relation to the root of the file system.  
+>   The location of a file or directory relative to the root of the file system.
 
+### More About Files - Interesting Characteristics of Files and Directories in a Linux Environment
 
-### More About Files - Find out some interesting characteristics of files and directories in a Linux environment.
-Using ls after each command is a way to ensure you do not have typos. Using tab to auto complete is another way to prevent mistakes when navigating the terminal.  
-  > Linux is a great tool to manipulate files   
+You can confirm your commands by using 'ls' after each entry. Utilizing tab auto-completion can help avoid typos when navigating the terminal.
+
 > - file  
-> obtain information about what type of file a file or directory is.  
+>   Obtain information about a file or directory type.
 > - ls -a  
->List the contents of a directory, including hidden files.  
+>   List all contents of a directory, including hidden files.
 > - Everything is a file under Linux  
->   Even directories.  
+>   This includes directories.
 > - Linux is an extensionless system  
->   Files can have any extension they like or none at all.  
+>   Files can have any extension or none at all.
 > - Linux is case sensitive  
->   Beware of silly typos.
+>   Be mindful of potential typos.
 
-### Manual Pages - Learn how to make the most of the Linux commands you are learning.  
-> The man command is a tool used to coolup commands, making it memorizing commands will not be necessary.  
+### Manual Pages - Maximizing the Use of Linux Commands
 
+> The 'man' command is a useful tool for looking up commands, eliminating the need for memorizing them.
+>
 > - man <command>  
->   Look up the manual page for a particular command.  
+>   Display the manual page for a specific command.
 > - man -k <search term>  
->   Do a keyword search for all manual pages containing the given search term.  
+>   Perform a keyword search for all manual pages containing the specified search term.
 > - /<term>  
->   Within a manual page, perform a search for 'term'  
+>   Perform a search for a term within a manual page.
 > - n  
->   After performing a search within a manual page, select the next found item.  
-> - The man pages are your friend.  
->   Instead of trying to remember everything, instead remember you can easily look stuff up in the man pages.  
+>   Select the next found item after performing a search within a manual page.
+> - Remember the man pages.  
+>   Instead of trying to memorize everything, just remember that you can easily look up information in the man pages.
 
+### File Manipulation - Creating, Removing, Renaming, Copying, and Moving Files and Directories
 
-### File Manipulation - How to make, remove, rename, copy and move files and directories.  
-  > Files are easily manipulated in the terminal using simple commmands. Below are the list of commands listed in the reading. Once a command is sent, there is no undo.  
+> File manipulation in the terminal is achieved through a set of simple commands. Remember, once a command is executed, it cannot be undone.
+>
 > - mkdir  
->   Make Directory - ie. Create a directory.  
+>   Create a directory.
 > - rmdir  
->   Remove Directory - ie. Delete a directory.  
+>   Delete a directory.
 > - touch  
->   Create a blank file.  
+>   Create a blank file.
 > - cp  
->   Copy - ie. Copy a file or directory.  
-> - mv
->   Move - ie. Move a file or directory (can also be used to rename).  
+>   Copy a file or directory.
+> - mv  
+>   Move or rename a file or directory.
 > - rm  
->   Remove - ie. Delete a file.  
-> - No undo  
->   The Linux command line does not have an undo feature. Perform destructive actions carefully.  
+>   Delete a file.
+> - There is no undo  
+>   The Linux command line does not have an undo function. Always be careful when performing destructive actions.
 > - Command line options  
->   Most commands have many useful command line options. Make sure you skim the man page for new commands so you are familiar with what they can do and what is available.  
+>   Most commands come with several useful options. Always skim through the man page for new commands to familiarize yourself with their capabilities.
 
+### [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php) - A Handy Reference for Main Points in This Tutorial
 
-### [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php) - A quick reference for the main points covered in this tutorial.
->The cheat sheet contains 10 different topics sorted into cards, its easy to follow a long with and is current bookmarked. 
-  
+> The cheat sheet provides a quick reference for the main points discussed in this tutorial. It covers 10 different topics divided into easy-to-follow cards.
