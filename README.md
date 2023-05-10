@@ -80,9 +80,6 @@ This serves as a table of contents for the 401 reading assignments.
 ### Daily Reading Assignments
 
 
-1. [Engineering Readings](https://tm-lbenson.github.io/reading-notes/401-notes/engineering-readings)
-1. [Data Structures and Algorithms](https://tm-lbenson.github.io/reading-notes/401-notes/data-structures-and-algorithms)
-1. [engineering-readings](https://tm-lbenson.github.io/reading-notes/401-notes/engineering-readings)
 1. [Daily Reading Assignment 1](https://tm-lbenson.github.io/reading-notes/401-notes/read-01)
 1. [Daily Reading Assignment 2](https://tm-lbenson.github.io/reading-notes/401-notes/read-02)
 1. [Daily Reading Assignment 3](https://tm-lbenson.github.io/reading-notes/401-notes/read-03)
@@ -112,13 +109,7 @@ This serves as a table of contents for the 401 reading assignments.
 1. [Daily Reading Assignment 34](https://tm-lbenson.github.io/reading-notes/401-notes/read-34)
 1. [Daily Reading Assignment 36](https://tm-lbenson.github.io/reading-notes/401-notes/read-36)
 1. [Daily Reading Assignment 37](https://tm-lbenson.github.io/reading-notes/401-notes/read-37)
-
 1. [Daily Reading Assignment 38](https://tm-lbenson.github.io/reading-notes/401-notes/read-38)
-
 1. [Daily Reading Assignment 39](https://tm-lbenson.github.io/reading-notes/401-notes/read-39)
-
 1. [Daily Reading Assignment 41](https://tm-lbenson.github.io/reading-notes/401-notes/read-41)
 
-1. [Ethics in Tech](https://tm-lbenson.github.io/reading-notes/401-notes/ethics)
-
-1. [Next.js and Gatsby.js](https://tm-lbenson.github.io/reading-notes/401-notes/next-gatsby)
